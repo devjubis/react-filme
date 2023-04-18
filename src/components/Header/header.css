@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Rowdies:wght@300&display=swap');
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+    background-color: #252537;
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Rowdies', cursive;;
+    cursor: pointer;
+    color: #f39256;
+    font-weight: bold;
+}
+
+.favoritos {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    background-color:#f39256;
+    padding: 5px 14px;
+    color:#fff ;
+    border-radius: 4px;
+    transition: all 0.5s;
+}
+
+.favoritos:hover {
+    background-color: #de8651;
+}
