@@ -1,5 +1,5 @@
 
-<h1> Filmex Online em React<h1/>
+<h1> Filme em Cartaz com React<h1/>
 
 <h2>Feito em React.JS, JavaScript, HTML, CSS, Node.JS, Responsivo, Usando API, Routes, Bibliotecas, Gerando a Build e Deploy<h2/>
 
