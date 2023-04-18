@@ -1,70 +1,27 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1> Filmex Online em React<h1/>
 
-## Available Scripts
+<h2>Feito em React.JS, JavaScript, HTML, CSS, Node.JS, Responsivo, Usando API, Routes, Bibliotecas, Gerando a Build e Deploy<h2/>
 
-In the project directory, you can run:
+### Projeto Home da Página ⬇️
+![print-not-home](https://user-images.githubusercontent.com/110790833/232915090-ebd56875-6877-4a8f-ac38-dd57abb1776c.PNG)
 
-### `npm start`
+### Projeto Home da Página Responsivo ⬇️
+![print-mobile-home](https://user-images.githubusercontent.com/110790833/232915361-3aad574b-fdf0-4ca7-becf-1415b8d15669.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Quando clicar no botão acessar se abre a aba de detalhes do Filme, tendo a opção de Salvar nos Favoritos e assitir o Trailer ⬇️
+![print-not-filmesInfo](https://user-images.githubusercontent.com/110790833/232915743-c0a300ee-3666-4320-a9bd-2cb211205deb.PNG)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Clicando no botão Trailer, leva direto para os trailers no Youtube ⬇️
+![pint-mobile-trailer](https://user-images.githubusercontent.com/110790833/232916393-6c5a1e32-7d13-49d4-a5bb-0f1de383409f.PNG)
 
-### `npm test`
+### Clicando no Botão Salvar, aparece um alert que o filme foi salvo ⬇️
+![print-not-filmesInfo-salvar](https://user-images.githubusercontent.com/110790833/232916582-3b24f54d-850e-4e9c-918e-d592f0f9ff5f.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Clivando no botão Meus Filmes, já pode visualizar todos os filmes salvos ⬇️
+![print-mobile-favoritos](https://user-images.githubusercontent.com/110790833/232916887-3ea93921-73a6-4b71-866d-922d13633d9e.PNG)
 
-### `npm run build`
+### Em meus favoritos, tem duas opções de botões o Ver Detalhes e Excluir ⬇️
+![print-mobile-favoritos-excluir](https://user-images.githubusercontent.com/110790833/232917111-3da700b4-2dbf-4dcf-b2fd-32977320a73a.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
