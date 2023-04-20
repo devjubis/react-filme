@@ -1,7 +1,7 @@
 
 <h1> Filme em Cartaz com React<h1/>
 
-<h2>Feito em React.JS, JavaScript, HTML, CSS, Node.JS, Responsivo, Usando API, Routes, Bibliotecas, Gerando a Build e Deploy<h2/>
+<h2>Feito em React.JS, JavaScript, Usando API, Routes, Estrutura de dados JSON, HTML, CSS, Node.JS, Responsivo, Bibliotecas, Gerando a Build e Deploy<h2/>
 
 ### Projeto Home da Página ⬇️
 ![print-not-home](https://user-images.githubusercontent.com/110790833/232915090-ebd56875-6877-4a8f-ac38-dd57abb1776c.PNG)
